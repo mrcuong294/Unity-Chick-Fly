@@ -7,6 +7,7 @@ TagManager:
   - Button
   - ButtonLauncher
   - BoxSpring
+  - BgStatic
   layers:
   - Default
   - TransparentFX
